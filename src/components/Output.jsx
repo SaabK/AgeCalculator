@@ -4,15 +4,15 @@ function Output() {
 	return (
 		<>
 			<div className='output-section'>
-				<div className='output-years'>
+				<div className='output output-years'>
 					<strong>38</strong> years
 				</div>
 
-				<div className='output-months'>
+				<div className='output output-months'>
 					<strong>3</strong> months
 				</div>
 
-				<div className='output-days'>
+				<div className='output output-days'>
 					<strong>26</strong> days
 				</div>
 			</div>

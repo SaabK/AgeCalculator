@@ -91,3 +91,20 @@ hr {
 .btn-submit > img {
 	width: 35px;
 }
+
+.output-section {
+	font-size: 3rem;
+	font-weight: 800;
+	font-style: italic;
+	color: var(--off-black-color);
+	display: flex;
+	flex-direction: column;
+}
+
+.output {
+	margin-bottom: -16px;
+}
+
+.output > strong {
+	color: var(--purple-color);
+}
