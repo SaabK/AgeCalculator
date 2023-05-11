@@ -1,10 +1,14 @@
-import { useState } from 'react';
+import Form from './components/Form';
+import Output from './components/Output';
 
 function App() {
 	return (
-		<>
-			<div></div>
-		</>
+		<main>
+			<div className='calculator'>
+				<Form />
+				<Output />
+			</div>
+		</main>
 	);
 }
 
