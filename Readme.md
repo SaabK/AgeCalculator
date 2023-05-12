@@ -1,4 +1,4 @@
-# Age Calculator - Challenge By FrontEnd Mentor.io
+# Age Calculator - A Challenge By FrontEnd Mentor.io
 
 This is a very simple age calculator. A Junior Level Challenge completed by Ali Bin Naseer.
 
